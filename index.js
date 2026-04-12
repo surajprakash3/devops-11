@@ -6,7 +6,7 @@ const PORT = 8000
 app.get('/', async(req , res)=>{
     res.send(`
         <h1>Welcome to my server</h1>
-        <h2>name: Rohit</h2>
+        <h2>name: suraj</h2>
         `)
 })
 
